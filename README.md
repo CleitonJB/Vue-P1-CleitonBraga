@@ -1,4 +1,4 @@
-# p1-cleiton-braga
+# my-app
 
 ## Project setup
 ```

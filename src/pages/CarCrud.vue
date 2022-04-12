@@ -7,5 +7,5 @@
         name: "CarCrud",
         data: () => ({}),
         mathods: {},
-    };
+    }
 </script>
