@@ -27,7 +27,7 @@
             { text: "Id",         value: "id"},
             { text: "Nome",       value: "name"},
             { text: "Produção",   value: "production"},
-            { text: "Fabricante", value: "Toyota"},
+            { text: "Fabricante", value: "manufacturer"},
             { text: "País",       value: "assembly"}
             ],
             cars: []
