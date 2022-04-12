@@ -1,14 +1,14 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import HomePage from '../pages/HomePage'
-import UserCrud from '../pages/UserCrud'
 
+import Home from '../pages/Home'
+import CarCrud from '../pages/CarCrud'
 
 Vue.use(VueRouter)
 
 const routes = [
-  { path: '/',      name: 'HomePage',    component: HomePage   },
-  { path: '/users', name: 'UserCrud', component: UserCrud }
+  { path: '/',     name: 'Home',    component: Home    },
+  { path: '/cars', name: 'CarCrud', component: CarCrud }
 ]
 
 const router = new VueRouter({
